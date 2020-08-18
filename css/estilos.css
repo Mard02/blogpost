@@ -2,4 +2,24 @@ body
 {
   text-align: center;
   font-family: "Arial";
+  font-size: 16px;
+  color: #ffa123;
+  margin: 0;
+  padding: 0;
+}
+
+#container
+{
+  width: 70%;
+  padding: 1em;
+  text-align: justify;
+  border: 2px solid #6b5651;
+  margin: 0 auto;
+}
+
+#container h1
+{
+  font-size: 20px;
+  text-align: center;
+  color: #fc3c13;
 }
